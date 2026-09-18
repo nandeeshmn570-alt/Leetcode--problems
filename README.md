@@ -7,8 +7,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0001-two-sum/) | Easy |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0001-two-sum/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 <!---LeetCode Topics End-->
