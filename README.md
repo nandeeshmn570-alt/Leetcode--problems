@@ -27,11 +27,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0100-same-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0100-same-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -43,9 +45,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0100-same-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 <!---LeetCode Topics End-->
