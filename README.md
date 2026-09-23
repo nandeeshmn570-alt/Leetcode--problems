@@ -7,12 +7,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -66,4 +68,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0049-group-anagrams/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
